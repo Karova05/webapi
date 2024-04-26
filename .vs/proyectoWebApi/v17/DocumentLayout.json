@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\cusuario\\consultausuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\cusuario\\consultausuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\cusuario\\consultausuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\cusuario\\consultausuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\csd\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\csd\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\csd\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\csd\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\csd\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\csd\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\csd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\csd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|c:\\users\\karla valverde\\source\\repos\\proyectowebapi\\proyectowebapi\\csd\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332ED84B-5BE8-4100-B7C6-FF1A450BC607}|proyectoWebApi\\proyectoWebApi.csproj|solutionrelative:proyectowebapi\\csd\\resultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "consultausuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\Cusuario\\consultausuario.aspx.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\Cusuario\\consultausuario.aspx.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\Cusuario\\consultausuario.aspx.cs",
+              "RelativeToolTip": "proyectoWebApi\\Cusuario\\consultausuario.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAD4vyYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:45:17.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consultausuario.aspx",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\Cusuario\\consultausuario.aspx",
+              "RelativeDocumentMoniker": "proyectoWebApi\\Cusuario\\consultausuario.aspx",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\Cusuario\\consultausuario.aspx",
+              "RelativeToolTip": "proyectoWebApi\\Cusuario\\consultausuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-20T06:57:18.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "picture.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\picture.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\CSD\\picture.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\picture.cs",
+              "RelativeToolTip": "proyectoWebApi\\CSD\\picture.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:11:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\usuario.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\CSD\\usuario.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\usuario.cs",
+              "RelativeToolTip": "proyectoWebApi\\CSD\\usuario.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:39:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "name.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\name.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\CSD\\name.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\name.cs",
+              "RelativeToolTip": "proyectoWebApi\\CSD\\name.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:15:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\login.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\CSD\\login.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\login.cs",
+              "RelativeToolTip": "proyectoWebApi\\CSD\\login.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:19:56.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resultados.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\resultados.cs",
+              "RelativeDocumentMoniker": "proyectoWebApi\\CSD\\resultados.cs",
+              "ToolTip": "C:\\Users\\Karla Valverde\\source\\repos\\proyectoWebApi\\proyectoWebApi\\CSD\\resultados.cs",
+              "RelativeToolTip": "proyectoWebApi\\CSD\\resultados.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:50:42.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

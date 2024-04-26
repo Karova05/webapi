@@ -1,0 +1,2 @@
+C:\Users\Karla Valverde\source\repos\proyectoWebApi\proyectoWebApi\obj\Debug\proyectoWebApi.csproj.AssemblyReference.cache
+C:\Users\Karla Valverde\source\repos\proyectoWebApi\proyectoWebApi\obj\Debug\proyectoWebApi.csproj.CoreCompileInputs.cache
